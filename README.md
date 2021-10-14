@@ -1,2 +1,2 @@
 # hello-world
-A temporary repository
+A temporary repository... yet it has lived such a life.
